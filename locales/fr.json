@@ -2,7 +2,7 @@
 "Newer Posts": "Articles plus récents",
 "Older Posts": "Articles plus anciens",
 "Continue": "Continuer",
-"Full Story": "Full Story",
+"Full Story": "En lire plus",
 "No posts": "Pas d'article",
 "posts": "articles",
 "% post": "% article",
@@ -12,6 +12,6 @@
 "Read more posts by this author":"Lire plus d'articles de cet auteur",
 "Get the latest posts delivered right to your inbox": "Recevez les derniers articles directement dans votre boite mail",
 "Subscribe to {sitetitle}": "Inscrivez vous à {sitetitle}",
-"Author":"Auteur"
-
+"Author":"Auteur",
+"of": "de"
 }
